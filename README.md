@@ -1,3 +1,4 @@
+![image_alt](https://github.com/Mahima-Roz/Industrial-CityScape/blob/0b5ca91bcb8fb3aeb4b8ac26fe72888eb3b678f1/Sunny%20Day%20-Bright%20Sunset.jpg)
 This project presents a 2D animated urban-industrial environment built using OpenGL and GLUT in C++. The scene represents a busy industrial city located near the ocean where transportation, industry, and natural elements interact in a dynamic environment.
 
 The project integrates multiple animated objects, environmental effects, and user interactions to simulate a lively industrial area. Vehicles move on the road with rotating wheels, ships travel across the ocean, windmills rotate beside buildings, and bubbles rise from a nuclear plant. A plane flies in the sky while a jellyfish moves inside the ocean.
